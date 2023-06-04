@@ -20,7 +20,7 @@ export default function Links() {
                     <a className="nav-link" aria-current="page" target='_blank' href="https://www.instagram.com/duaartevini/">Instagram</a>
                 </div>
                 <div className='div-link d-flex flex-column align-items-center justify-content-center'>
-                    <span className="nav-link">(Em breve) - Baixe meu e-book "Como vencer a procrastinação"</span>
+                    <a className="nav-link" aria-current="page" target='_blank' href="https://chk.eduzz.com/1867535">Baixe meu e-book "Como vencer a procrastinação"</a>
                 </div>
             </div>
 
