@@ -19,6 +19,14 @@
 
 }
 
+.div-link:hover {
+    background: transparent;
+    color: #fff;
+    border-radius: 0.9375rem;
+    box-shadow: 0 0 .5rem #f7f4f4, 0 0 .5rem currentColor;
+
+}
+
 @keyframes fadeIntext {
     from {
         opacity: 0;
