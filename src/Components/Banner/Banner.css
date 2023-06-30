@@ -33,3 +33,13 @@ h3 {
         transform: scale(1);
     }
 }
+
+@media screen and (min-width:1024px) {
+    .img-perfil {
+        margin: 9rem 0 1rem 0;
+        width: 17rem;
+        border-radius: 50%;
+        border: 15px solid #09143C;
+        z-index: 1;
+    }
+}

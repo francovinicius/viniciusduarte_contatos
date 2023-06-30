@@ -19,3 +19,13 @@
     margin-left: -3px;
     color: aliceblue;
 }
+
+@media screen and (min-width:1024px) {
+    .navegacao {
+        padding-bottom: 14rem;
+
+    }
+    .tag-a {
+        font-size: 2rem;
+    }
+}
