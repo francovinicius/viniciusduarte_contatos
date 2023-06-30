@@ -1,33 +1,23 @@
 .img-perfil {
     margin: 4rem 0 1rem 0;
-    width: 12rem;
+    width: 13rem;
     border-radius: 50%;
-    border: 3px solid #f5f3f2;
-    box-shadow: 0 0 .5rem #f8f8f8, 0 0 .5rem currentColor;
+    border: 13px solid #09143C;
+    z-index: 1;
 }
 
 h3 {
-    color: #d1d0d0;
+    color: #09143C;
+    font-size: 1.8rem;
     font-weight: bold;
-    text-shadow: 0 0 .1rem #f8f8f8, 0 0 1rem currentColor;
     animation: fadeIntext 2s both;
-}
-
-.navegacao {
-    gap: 30px;
-    margin-top: .5rem;
-    margin-bottom: -2rem;
-    font-size: 18px;
-}
-
-.nav-link {
-    color:#fafafa;
-    font-weight: bold;
 }
 
 .slogan {
     margin-top: -.4rem;
     animation: fadeIntext 2s both;
+    color: #737680;
+    margin-bottom: -1.5rem;
 
 
 }

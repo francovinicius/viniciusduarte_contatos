@@ -8,10 +8,10 @@
 .div-link {
     width: 80%;
     padding: 1rem 1rem;
-    background: transparent;
-    color: #0a81f0;
-    border-radius: 0.9375rem;
-    box-shadow: 0 0 .5rem #272727, 0 0 .5rem currentColor;
+    background: #fff;
+    border-radius: 25px;
+    box-shadow: 0 0 .5rem #aaa7a7, 0 0 .5rem currentColor;
+    color: #000;
 
     margin: 0 0 1.2rem 0;
 
@@ -21,7 +21,7 @@
 
 .div-link:hover {
     background: transparent;
-    color: #fff;
+    color: #000;
     border-radius: 0.9375rem;
     box-shadow: 0 0 .5rem #f7f4f4, 0 0 .5rem currentColor;
 
